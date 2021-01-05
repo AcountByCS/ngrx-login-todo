@@ -1,0 +1,29 @@
+.loginbox {
+  width: 30%;
+  height: 500px;
+  background-image: radial-gradient(circle, darkslategray 0%, darkslategray 100%);
+  margin: 20px 0px;
+}
+
+.loginhead {
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+
+button {
+  width: 100px;
+  background-color: blue;
+}
+
+.btnholder {
+  text-align: center;
+}
+
+.btnholder a {
+  color: rgb(68, 0, 255);
+}
+
+label {
+  color: whitesmoke;
+}
